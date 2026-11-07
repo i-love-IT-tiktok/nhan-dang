@@ -1,0 +1,17 @@
+{
+  "heart": {
+    "name": "Trái Tim ❤️",
+    "description": "Hai bàn tay tạo hình trái tim",
+    "effect": "hearts"
+  },
+  "thumbs_up": {
+    "name": "Thumbs Up 👍👍",
+    "description": "Hai tay giơ ngón cái",
+    "effect": "fireworks"
+  },
+  "none": {
+    "name": "--",
+    "description": "Chưa nhận diện",
+    "effect": null
+  }
+}
